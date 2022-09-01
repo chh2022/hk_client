@@ -1,0 +1,10 @@
+D:\VSProject\VS2019Proj\Client\hk_client\client\bin\Debug\client.exe.config
+D:\VSProject\VS2019Proj\Client\hk_client\client\bin\Debug\client.exe
+D:\VSProject\VS2019Proj\Client\hk_client\client\bin\Debug\client.pdb
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.csproj.AssemblyReference.cache
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.Properties.Resources.resources
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.csproj.GenerateResource.cache
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.exe
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.pdb
+D:\VSProject\VS2019Proj\Client\hk_client\client\obj\Debug\client.Form1.resources
